@@ -1,12 +1,9 @@
-using System;
 using System.Reflection;
 using System.Runtime.InteropServices;
-using System.Security;
-using System.Runtime.CompilerServices;
 
 [assembly: AssemblyCompany("gelf4net")]
-[assembly: AssemblyFileVersion("2.0.3.6")]
-[assembly: AssemblyVersion("2.0.3.6")]	
-[assembly: AssemblyCopyright("Copyright ©  2014")]
-[assembly: ComVisible(false)]	
+[assembly: AssemblyFileVersion("2.0.3.10")]
+[assembly: AssemblyVersion("2.0.3.10")]
+[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: ComVisible(false)]
 

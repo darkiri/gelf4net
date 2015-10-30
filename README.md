@@ -3,7 +3,8 @@ gelf4net is a log4net adapter that formats logs to the [GELF][1] specification a
 
 ## Installation
 
-You can install the latest stable release using the nuget package `gelf4net`.  
+You can install the latest stable release using the nuget package [`gelf4net`](https://www.nuget.org/packages/Gelf4Net/).
+
 If you want to use the daily builds you can install the `gelf4net-ci` package.
 
 ## Configuration
@@ -208,8 +209,8 @@ If the custom object does not have a `Message` or `ShortMessage` field than the 
 output of the `ToString()` of that object.
 
 ## License
-This project is licensed under the [Apache 2.0](2) license
+This project is licensed under the [MIT](2) license
 
 [1]: https://github.com/Graylog2/graylog2-docs/wiki/GELF
-[2]: http://www.apache.org/licenses/LICENSE-2.0.html
+[2]: https://opensource.org/licenses/MIT
 [3]: http://logging.apache.org/log4net/release/sdk/log4net.Layout.PatternLayout.html
